@@ -3,7 +3,7 @@ The demand for high-resolution precipitation forecasts is increasing, particular
 
 ---
 
-## 🔍 Objective
+## Objective
 To develop a CNN-based super-resolution framework that improves the spatial resolution of precipitation datasets using:
 - **Low-resolution input** from simulated or interpolated GCMs  
 - **High-resolution ground-truth** from observational data (MSWEP)  
@@ -11,7 +11,7 @@ To develop a CNN-based super-resolution framework that improves the spatial reso
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 We adopt a modified version of the **EDSR** architecture containing:
 - 19 Residual Blocks
 - Conv2D layers (ReLU + Linear)
@@ -20,10 +20,10 @@ We adopt a modified version of the **EDSR** architecture containing:
 
 ---
 
-## 📊 Dataset Sources
-- 📌 **MSWEP V2 (Multi-Source Weighted-Ensemble Precipitation)**  
+## Dataset Sources
+- **MSWEP V2 (Multi-Source Weighted-Ensemble Precipitation)**  
   Observational rainfall dataset at 0.1° resolution.
-- 📌 **NEX-GDDP CMIP6: EC-Earth3**  
+- **NEX-GDDP CMIP6: EC-Earth3**  
   Downscaled GCM outputs at 0.25°, covering Southeast Asia.
 
 ---
