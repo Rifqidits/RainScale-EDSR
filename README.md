@@ -25,6 +25,7 @@ We adopt a modified version of the **EDSR** architecture containing:
   Observational rainfall dataset at 0.1° resolution.
 - **NEX-GDDP CMIP6: EC-Earth3**  
   Downscaled GCM outputs at 0.25°, covering Southeast Asia.
+For now, the dataset used in this project is still under review and cannot be published until approved. While the dataset remains private, all code is owned by the author and is made publicly available for learning, experimentation, and non-commercial academic use. Attribution is appreciated.
 
 ---
 
