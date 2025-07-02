@@ -30,3 +30,5 @@ For now, the dataset used in this project is still under review and cannot be pu
 ---
 
 This project aims to contribute toward more accurate and localized climate insights through deep learning. Your feedback, suggestions, or collaborations are warmly welcome.
+
+Disclaimer: The files uploaded in this repository do not include the dataset and certain internal implementation details due to data originality, privacy, and legal limitations. The shared code is provided for educational and academic purposes only.
